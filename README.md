@@ -1,4 +1,4 @@
-# ☀️ WeatherApp
+# ☀️ Weather Forecast
 
 <div style="display: flex; justify-content: space-around;">
     <img src="https://github.com/user-attachments/assets/ece04385-160f-4380-9e00-60e0a38d9922" alt="Imagem 1" >
@@ -8,7 +8,7 @@
 
 ## 📚 Descrição
 
-WeatherApp é uma página web simples que exibe informações meteorológicas em tempo real, como temperatura, umidade, e condições climáticas para cidades ao redor do mundo. Os dados são fornecidos pela API OpenWeather.
+Weather Forecast é uma página web simples que exibe informações meteorológicas em tempo real, como temperatura, umidade, e condições climáticas para cidades ao redor do mundo. Os dados são fornecidos pela API OpenWeather.
 
 ## 🔗 Funcionalidades
 
